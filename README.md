@@ -8,7 +8,7 @@
 
 ## 👋 Handoff Setup Guide (Read This First)
 
-This project has **2 parts** you must run simultaneously:
+This project has **2 parts** you must run simultaneously: ;;;
 
 | Part | What it is | How to start |
 |---|---|---|
