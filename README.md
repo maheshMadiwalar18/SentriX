@@ -219,11 +219,6 @@ SentriX uses **Mistral** by default. You can swap it for any model supported by 
 
 ---
 
-## 🔒 Privacy
-
-- **100% local** — no data leaves your machine
-- No accounts, no API keys, no subscriptions
-- Ollama runs on your CPU/GPU locally
 
 ---
 
