@@ -64,7 +64,7 @@ You should see `mistral` in the list.
 
 Open a terminal and run:
 ```
-ollama serve
+ollama serve df
 ```
 Leave this terminal open. Ollama runs on port `11434`.
 
